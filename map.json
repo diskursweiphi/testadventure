@@ -40,7 +40,7 @@
                  "value":"https:\/\/play.workadventu.re\/@\/diskurslab\/alltag\/denkundquatschraum"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
